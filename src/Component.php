@@ -1,6 +1,6 @@
 <?php
 
-namespace StarringJane\WordpressBlade;
+namespace Southcoastweb\WordpressBlade;
 
 use Illuminate\View\Component as BaseComponent;
 
