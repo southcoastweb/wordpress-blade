@@ -1,6 +1,6 @@
 <?php
 
-namespace StarringJane\WordpressBlade;
+namespace Southcoastweb\WordpressBlade;
 
 class Hooks
 {
