@@ -1,8 +1,8 @@
 <?php
 
-namespace StarringJane\WordpressBlade;
+namespace Southcoastweb\WordpressBlade;
 
-use Jenssegers\Blade\Blade;
+use Southcoastweb\ScwCohesion\Illuminate\Blade;
 use Illuminate\Contracts\View\Factory as ViewFactory;
 use Illuminate\Contracts\Foundation\Application as FoundationApplication;
 
