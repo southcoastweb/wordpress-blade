@@ -1,8 +1,8 @@
 <?php
 
-namespace StarringJane\WordpressBlade;
+namespace Southcoastweb\WordpressBlade;
 
-use Illuminate\Container\Container;
+use As247\WpEloquent\Container\Container;
 use Illuminate\Contracts\Foundation\Application as ApplicationInterface;
 
 class Application extends Container implements ApplicationInterface {
